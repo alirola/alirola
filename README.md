@@ -22,29 +22,48 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ### 💼 Proyectos Destacados
 
-#### 🎮 **cub3d** - Motor gráfico inspirado en Wolfenstein 3D
+#### 🕹️ **Transcendence** – Plataforma de Pong
+[![TRANSCENDENCE](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png)](https://github.com/alirola/transcendence)
+- **Tecnologías:** Fastify, TypeScript, SQLite3, Docker, Nginx  
+- **Descripción:** Proyecto final de 42. Aplicación web fullstack con autenticación OAuth, y juego Pong multijugador.  
+- **Logro:** Integración completa frontend-backend con comunicación en tiempo real y despliegue Dockerizado.
+
+---
+
+#### 💬 **ft_irc** – Servidor IRC desde cero
+[![FT_IRC](https://raw.githubusercontent.com/alirola/resources/main/badges/ft_ircm.png)](https://github.com/alirola/ft_irc)
+- **Tecnologías:** C++, sockets, networking, RFC 1459  
+- **Descripción:** Implementación completa de un servidor IRC compatible con clientes estándar (como HexChat o irssi).  
+- **Logro:** Dominio de la programación con sockets, gestión de usuarios, canales y comandos simultáneos.
+
+---
+
+#### 🎮 **cub3d** – Motor gráfico inspirado en Wolfenstein 3D
 [![CUB3D](https://raw.githubusercontent.com/alirola/resources/main/badges/cub3dm.png)](https://github.com/alirola/cub3d)
-- **Tecnologías:** C, MinilibX, gráficos por computadora
+- **Tecnologías:** C, MinilibX, gráficos por computadora  
 - **Logro:** Implementación de raycasting para renderizado 3D en tiempo real
 
-#### 🐚 **minishell** - Intérprete de comandos personalizado
+#### 🐚 **minishell** – Intérprete de comandos personalizado
 [![MINISHELL](https://raw.githubusercontent.com/alirola/resources/main/badges/minishellm.png)](https://github.com/alirola/minishell)
-- **Tecnologías:** C, procesos, pipes, señales
+- **Tecnologías:** C, procesos, pipes, señales  
 - **Logro:** Shell funcional con manejo de procesos y redirecciones
 
-#### 🔄 **push_swap** - Algoritmo de ordenación optimizado
+#### 🔄 **push_swap** – Algoritmo de ordenación optimizado
 [![PUSH_SWAP](https://raw.githubusercontent.com/alirola/resources/main/badges/push_swapm.png)](https://github.com/alirola/push_swap)
-- **Tecnologías:** C, algoritmos, estructuras de datos
+- **Tecnologías:** C, algoritmos, estructuras de datos  
 - **Logro:** Algoritmo eficiente para ordenación con restricciones
 
-#### 🧵 **philosophers** - Solución al problema de los filósofos
+#### 🧵 **philosophers** – Solución al problema de los filósofos
 [![PHILOSOPHERS](https://raw.githubusercontent.com/alirola/resources/main/badges/philosophersm.png)](https://github.com/alirola/philosophers)
-- **Tecnologías:** C, hilos, mutex, programación concurrente
+- **Tecnologías:** C, hilos, mutex, programación concurrente  
 - **Logro:** Manejo de sincronización y prevención de deadlocks
 
 ---
