@@ -1,7 +1,64 @@
-![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-### Hi there! I'm Alex, programming student in 42 Málaga
+### 👋 ¡Hola! Soy Alex Lirola - Desarrollador Full Stack
+
 [![alirola-'s 42 stats](https://badge.mediaplus.ma/greenbinary/alirola-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-### Projects
-[![LIBFT](https://raw.githubusercontent.com/alirola/resources/main/badges/libftm.png?token=GHSAT0AAAAAACVW47MSO5HM45ZHFB6BXBAKZVQ6S3Q)](https://github.com/alirola/libft) [![FT_PRINTF](https://raw.githubusercontent.com/alirola/resources/main/badges/ft_printfm.png?token=GHSAT0AAAAAACVW47MTRIH43YJCRTTPIPMEZVQ6TKA)](https://github.com/alirola/ft_printf) [![GETNEXTLINE](https://raw.githubusercontent.com/alirola/resources/main/badges/get_next_linem.png?token=GHSAT0AAAAAACVW47MSOV4I75P7ZHZ6DPR6ZVQ6TZQ)](https://github.com/alirola/get_next_line) [![BORN2BEROOT](https://raw.githubusercontent.com/alirola/resources/main/badges/born2berootm.png?token=GHSAT0AAAAAACVW47MSCYWZO6NDCXCAUKUSZVQ6UHQ)](https://github.com/alirola/born2beroot) [![SO_LONG](https://raw.githubusercontent.com/alirola/resources/main/badges/so_longm.png?token=GHSAT0AAAAAACVW47MSTETCWCPZWDLWTB6EZVQ6VDQ)](https://github.com/alirola/so_long) [![MINITALK](https://raw.githubusercontent.com/alirola/resources/main/badges/minitalkm.png?token=GHSAT0AAAAAACVW47MTRCIVZQYNI3JVHJDAZVQ6VTQ)](https://github.com/alirola/pipex) [![PUSH_SWAP](https://raw.githubusercontent.com/alirola/resources/main/badges/push_swapm.png?token=GHSAT0AAAAAACVW47MTAKIC5UUUPIQNUER4ZVQ665Q)](https://github.com/alirola/push_swap) [![MINISHELL](https://raw.githubusercontent.com/alirola/resources/main/badges/minishellm.png?token=GHSAT0AAAAAACVW47MT332A5AVB2QEZOSU2ZVQ67LA)](https://github.com/alirola/minishell) [![PHILOSOPHERS](https://raw.githubusercontent.com/alirola/resources/main/badges/philosophersm.png?token=GHSAT0AAAAAACVW47MTKFFR3GH2EJOLVENQZVQ67YQ)](https://github.com/alirola/philosophers) [![NETPRACTICE](https://raw.githubusercontent.com/alirola/resources/main/badges/netpracticem.png?token=GHSAT0AAAAAACVW47MSUPDMR3D2WG2NJBSCZVQ7ADQ)](https://github.com/alirola/net_practice) [![CUB3D](https://raw.githubusercontent.com/alirola/resources/main/badges/cub3dm.png?token=GHSAT0AAAAAACVW47MTOEEBXX7FI6T7UG72ZVQ7AQA)](https://github.com/alirola/cub3d) [![CPP](https://raw.githubusercontent.com/alirola/resources/main/badges/cppm.png?token=GHSAT0AAAAAACVW47MTQAJW3XL2WKG5QEVIZVQ7AZQ)](https://github.com/alirola/cpp)
+**🚀 Desarrollador apasionado con sólida base en programación de sistemas y creación de soluciones eficientes.**  
+*Formado en 42 Málaga con metodología learning-by-doing*
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes:**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Herramientas:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 💼 Proyectos Destacados
+
+#### 🎮 **cub3d** - Motor gráfico inspirado en Wolfenstein 3D
+[![CUB3D](https://raw.githubusercontent.com/alirola/resources/main/badges/cub3dm.png)](https://github.com/alirola/cub3d)
+- **Tecnologías:** C, MinilibX, gráficos por computadora
+- **Logro:** Implementación de raycasting para renderizado 3D en tiempo real
+
+#### 🐚 **minishell** - Intérprete de comandos personalizado
+[![MINISHELL](https://raw.githubusercontent.com/alirola/resources/main/badges/minishellm.png)](https://github.com/alirola/minishell)
+- **Tecnologías:** C, procesos, pipes, señales
+- **Logro:** Shell funcional con manejo de procesos y redirecciones
+
+#### 🔄 **push_swap** - Algoritmo de ordenación optimizado
+[![PUSH_SWAP](https://raw.githubusercontent.com/alirola/resources/main/badges/push_swapm.png)](https://github.com/alirola/push_swap)
+- **Tecnologías:** C, algoritmos, estructuras de datos
+- **Logro:** Algoritmo eficiente para ordenación con restricciones
+
+#### 🧵 **philosophers** - Solución al problema de los filósofos
+[![PHILOSOPHERS](https://raw.githubusercontent.com/alirola/resources/main/badges/philosophersm.png)](https://github.com/alirola/philosophers)
+- **Tecnologías:** C, hilos, mutex, programación concurrente
+- **Logro:** Manejo de sincronización y prevención de deadlocks
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=alirola&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alirola&layout=compact&theme=radical)
+
+---
+
+### 📫 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexlirola/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allife2004.AL@gmail.com)
+
+*💼 Buscando oportunidades como Desarrollador Full Stack, Backend o Frontend en Málaga, Almería o remoto*
